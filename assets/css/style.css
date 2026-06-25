@@ -102,3 +102,39 @@ section li{
     font-size:18px;
 }
 ```
+.hero{
+    background:#f2f2f2;
+    position:relative;
+}
+
+.hero-content{
+    width:100%;
+    max-width:1000px;
+}
+
+.hero-label{
+    display:block;
+    font-size:14px;
+    letter-spacing:3px;
+    text-transform:uppercase;
+    color:#777;
+    margin-bottom:30px;
+}
+
+.hero h1{
+    font-size:96px;
+    line-height:1.05;
+    font-weight:700;
+    margin-bottom:25px;
+}
+
+.hero p{
+    font-size:28px;
+    color:#666;
+    margin-bottom:40px;
+}
+
+.hero-year{
+    font-size:20px;
+    color:#999;
+}
