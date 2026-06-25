@@ -138,3 +138,22 @@ section li{
     font-size:20px;
     color:#999;
 }
+
+.logo-small{
+    font-size:12px;
+    letter-spacing:2px;
+    color:#9ca3af;
+    margin-bottom:10px;
+}
+
+.logo-title{
+    font-size:24px;
+    font-weight:700;
+    line-height:1.4;
+}
+
+.logo-year{
+    margin-top:15px;
+    font-size:13px;
+    color:#9ca3af;
+}
